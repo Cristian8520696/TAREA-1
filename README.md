@@ -1,1 +1,3 @@
 # TAREA-1
+
+Los beneficios que brinda GitHub Students son varios, ya que brinda acceso de forma gratuita a herramientas de desarrollo para programadores, asi como acceso gratuito a GitHub Copilot, asi mismo brinda acceso de forma gratuita a herramientas de desarrollo de socios, entre otras opciones que brinda, como estudiante es una gran ventaja y apoyo que nos brinden la oportunidad de tener estos beneficios ya que nos ayudan a tener mas herramientas a la mano.
